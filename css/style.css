@@ -1,0 +1,54 @@
+
+
+
+ul li a{color:black;}
+ul li a:hover{color: green;}
+.navbar-brand a{color:white;}
+.btn{
+    color:white;
+    background: red;
+    border:2px solid grey;
+}
+#btn{
+    color:white;
+    background: grey;
+    cursor:pointer;
+    margin-left: 10px;
+    border:1px solid grey;
+    border-radius:10px 10px 10px 10px;
+}
+
+a{color:red;font-size:.9rem;font-weight: 500;}
+a:hover{color:red;text-decoration: none;}
+.text-center h2{font-size:35px;font-weight:450;}
+.text-center p{font-size:14px;}
+
+.text-center h4{font-size:22px; margin-top: 65px;}
+p{font-size:.8rem;font-weight: 440;}
+h1 a{color:black;font-size:1em;}
+
+.menu-main{position: relative;}
+
+.menu-sub{
+     position: absolute;
+    width:100%;
+    padding: 2em;
+    
+    
+    
+}
+
+
+
+.menu-col-1,
+.menu-col-2,
+.menu-col-3,
+.menu-col-4,
+.menu-col-5{
+       float:left;
+    
+}
+.menu-col-1{
+    width:20%;
+    
+}
